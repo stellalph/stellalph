@@ -1,9 +1,8 @@
 ### Hi, I am Stella 👋
 
 
-- 🔭 I’m currently working on MERN Stack application
-- 🌱 I’m currently learning at The University of Adelaide, South Australia
-- 🤔 I’m looking for help with job opportunities
+- 🔭 I’m currently actively seeking job opportunities.
+- 🌱 I have graduated from The University of Adelaide, South Australia with a professional certification in full stack in web development.
 - 📫 How to reach me: stella.ling@outlook.com
 - ⚡ Fun fact: I love to do step aerobics, swimming and hiking.
 
