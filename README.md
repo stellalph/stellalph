@@ -2,7 +2,9 @@
 
 
 - 🔭 I’m currently actively seeking job opportunities.
-- 🌱 I have graduated from The University of Adelaide, South Australia with a certification in full stack web development.
+- ![image](https://user-images.githubusercontent.com/98439836/189521524-7a79f4d3-ed29-4913-b898-48a4cf806acd.png)
+ I have graduated from The University of Adelaide, South Australia with a certification in full stack web development.
+-🌱 Continue to learn Python, Java, AWS and C#
 - 📫 How to reach me: stella.ling@outlook.com
 - ⚡ Fun fact: I love to do step aerobics, swimming and hiking.
 
