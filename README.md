@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently actively seeking job opportunities.
-- ![image](https://user-images.githubusercontent.com/98439836/189521653-06cfa628-0f79-430c-8209-e7d7517b2316.png)I have graduated from The University of Adelaide, South Australia with a certification in full stack web development.
+- ![image](https://user-images.githubusercontent.com/98439836/189521653-06cfa628-0f79-430c-8209-e7d7517b2316.png)I have completed the University of Adelaide Coding Bootcamp with a certification in Full Stack Web Development.
 - ![image](https://user-images.githubusercontent.com/98439836/189521697-f122448e-28b8-439e-b98b-5f9175bd3e60.png)Continue to learn Python, C#, Java and AWS
 - ![image](https://user-images.githubusercontent.com/98439836/189521774-5cc04bbd-5fb7-4609-b08f-0966dae1132f.png)Learning don't stop... continue to build Apps and Projects.
 - 📫 How to reach me: stella.ling@outlook.com
